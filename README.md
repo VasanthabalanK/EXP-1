@@ -51,9 +51,9 @@ b.  KCL:
 
 Calculation:
 
-![222](https://github.com/user-attachments/assets/a1e49c46-0f97-4d33-8e09-f5beeb4de63e)
+![image](https://github.com/user-attachments/assets/a66f98eb-4643-4f01-b2cd-45dd5e8c09e4)
 
-![WhatsApp Image 2025-09-25 at 13 45 31_b5709cd1](https://github.com/user-attachments/assets/cfa88af5-1ee1-4267-91b5-8f5234c22244)
+![image](https://github.com/user-attachments/assets/4c693267-037b-4429-a121-8d9096f94c95)
 
 
 RESULT:
