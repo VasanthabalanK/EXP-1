@@ -51,10 +51,19 @@ b.  KCL:
 
 Calculation:
 
-![image](https://github.com/user-attachments/assets/a66f98eb-4643-4f01-b2cd-45dd5e8c09e4)
+![image](https://github.com/user-attachments/assets/e6ec5a8d-0fb5-4a2d-a461-f75c502b2d5c)
 
-![image](https://github.com/user-attachments/assets/4c693267-037b-4429-a121-8d9096f94c95)
+![image](https://github.com/user-attachments/assets/6ef32d95-52fc-444f-9f27-c2fd6e63969c)
 
+![image](https://github.com/user-attachments/assets/894eeaaa-9fae-4e83-8bed-0885367606d5)
+
+![image](https://github.com/user-attachments/assets/05d88fb4-7d95-4cdd-acca-e0bf2c94ee64)
+
+![image](https://github.com/user-attachments/assets/e726c836-fa11-4785-99af-1bfcb0afbafd)
+
+![image](https://github.com/user-attachments/assets/bd69b69b-32ae-4d30-8979-64f218c6c376)
+
+![image](https://github.com/user-attachments/assets/bf8b7c6a-6c61-4758-ac0a-29317d5db252)
 
 RESULT:
 
